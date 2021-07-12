@@ -1,14 +1,12 @@
-# VR_Listening-simulation
+# VR_Listening-simulation (VR 수능 시뮬레이션)
 
-2019 Co-op Immersive Game Contents Development Track
+* 2019 Co-op Immersive Game Contents Development Track
 
----
 
 ## Video
 
-### Youtube [here](https://youtu.be/Hgt2C2JZ7UM "Video")
+* Youtube [here](https://youtu.be/Hgt2C2JZ7UM "Video")
 
----
 
 ## Process
 
