@@ -1,6 +1,6 @@
 # VR_Listening-simulation (VR 수능 시뮬레이션)
 
-* 2019 Co-op Immersive Game Contents Development Track
+* 2019 SSU Co-op Immersive Game Contents Development Track
 
 
 ## Summary
